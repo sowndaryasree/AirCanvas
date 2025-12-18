@@ -19,13 +19,13 @@ prev_x, prev_y = 0, 0
 
 # Colors (BGR)
 colors = [
-    (255, 0, 255),   # Purple
-    (255, 0, 0),     # Blue
-    (0, 255, 0),     # Green
-    (0, 255, 255),   # Yellow
-    (0, 0, 0)        # Eraser
+    (230, 190, 255),  # Lavender Purple 
+    (255, 200, 120),  # Sky Blue 
+    (120, 120, 255),  # Soft Red 
+    (180, 200, 255),  # Peach / Coral 
+    (0, 0, 0)         # Eraser 
 ]
-color_names = ["PURPLE", "BLUE", "GREEN", "YELLOW", "ERASER"]
+color_names = ["LAVENDER", "SKY BLUE", "RED", "PEACH", "ERASER"]
 current_color = colors[0]
 
 def fingers_up(hand):
