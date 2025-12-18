@@ -29,5 +29,6 @@ It uses MediaPipe for hand landmark detection and OpenCV for real-time image pro
    - Press Q → Quit  
 
    ## 👨‍🎓 Project Type
-   Computer Vision Mini Project using Machine Learninggit init
+   Computer Vision Mini Project using Machine Learning
+
 
